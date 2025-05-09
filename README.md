@@ -1,5 +1,5 @@
-#Alzheimer’s Disease Classification with 3D CNN and Tabular Data
-
+_**Alzheimer’s Disease Classification with 3D CNN and Tabular Data**__
+_
 Overview
 This project develops a deep learning model to classify Alzheimer’s disease (nondemented vs. demented) using 3D MRI scans and tabular demographic data. We use the OASIS-2 dataset, which includes 373 T1-weighted MRI scans from 150 subjects, along with features like Age, Education (EDUC), Socioeconomic Status (SES), and Mini-Mental State Examination (MMSE) scores. The hybrid CNN3DTabular model combines a 3D CNN for MRI processing with an MLP for tabular data, achieving a validation balanced accuracy of 0.7820.
 Dataset
